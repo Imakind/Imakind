@@ -1,16 +1,45 @@
-## Hi there 👋
 
-<!--
-**Imakind/Imakind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Akzhan 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Building intelligent solutions to real-world problems.
+<h3 align="center">AI Enthusiast | Developer | Information Systems</h3>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🎓 Final-year university student in Kazakhstan
+- 🤖 Interested in Artificial Intelligence and Computer Vision
+- 💻 Building software, ML applications and web services
+- 🚀 Exploring AI-driven startups and open-source development
+- 🌍 Based in Almaty, Kazakhstan
+
+## Tech Stack
+
+**Languages:** Python, C++, Java
+
+**Areas:** Machine Learning, Computer Vision, Backend Development
+
+**Tools:** Git, GitHub, Docker, VS Code, Codex
+
+## Featured Projects
+
+### AI Defect Detection
+Computer vision for detecting surface defects in steel sheets.
+
+### SuCheckAI
+An IoT and AI solution for monitoring water and soil parameters.
+
+### AI Schematic Reader
+Exploring automated interpretation of engineering schematics.
+
+## Highlights
+
+- Winner — Mira Growth Hack
+- Founder — SuCheckAI
+- Mentorship support — FarabiHub and AI Startify
+
+## Connect
+
+- LinkedIn: [My Profile](www.linkedin.com/in/akzhan-akishev-b47745361)
+- GitHub: Explore my repositories below
